@@ -5,31 +5,37 @@
 
 output--> undirected.m
 
-![3 undirected](https://github.com/user-attachments/assets/e201c7d7-33ff-4af3-8278-993c7a97f02e)
+![1](https://github.com/user-attachments/assets/842643a0-599d-4347-b055-e400d4b1d148)
+
 
 undirected2.m
 
-![4 undirected2](https://github.com/user-attachments/assets/8ef3fcb7-60ed-407a-a315-489b1ef01ce6)
+![2](https://github.com/user-attachments/assets/e95f6f7d-17e3-4447-aa13-6a424407cffa)
+
 
 ## Directed Graph
 
-![5 directed](https://github.com/user-attachments/assets/e465e5e4-58a2-4d35-bfc3-d415e37599c9)
+![3](https://github.com/user-attachments/assets/6252373e-b689-40c1-97ce-7fbb2649a604)
+
 
 ## Undirected Weighted Graph
 
-![6 weightedUndirected](https://github.com/user-attachments/assets/e0be8fef-edb4-42ff-842a-9470f47322bb)
+![4](https://github.com/user-attachments/assets/fb999e94-9a58-415c-bfed-a3e5c3c3d5a5)
+
 
 ## Adjacency Matrix Representation 
 
 output-->adjacencyMatrix.m
 
-![1 adjacecyMatrix](https://github.com/user-attachments/assets/6637f1ce-8683-4466-a604-f611ff193665)
+![5](https://github.com/user-attachments/assets/aae19393-8a94-4b9f-b61d-ac36fd96b8ce)
+
 
 ## Add color to nodes in  a weighted directed graph
 
 output-->graph2.m
 
-![2](https://github.com/user-attachments/assets/5aad8598-0cfc-457d-adca-d7a2281140ce)
+![6](https://github.com/user-attachments/assets/e93245db-29bd-4658-bd60-0c2343a49c66)
+
 
 ## Using layout 'force'
 
@@ -37,36 +43,34 @@ output-->graph3.m
 
 without 'force'
 
-![3 withoutForce](https://github.com/user-attachments/assets/cd72c738-626f-48ff-8635-e7b0cd78605c)
+![7](https://github.com/user-attachments/assets/b467f716-3693-427d-84f9-1f0795201129)
+
 
 with 'force'
 
-![3](https://github.com/user-attachments/assets/7f96c617-c280-4d39-961e-af791e6571cb)
+![8](https://github.com/user-attachments/assets/c4903617-9588-4d10-904a-7e7808ab4d80)
+
 
 ## add colors to nodes
 
 output--> nodeColors.m
 
-![4 colors](https://github.com/user-attachments/assets/81c95d15-f473-457d-83ce-e430df70697c)
+![9](https://github.com/user-attachments/assets/22633ee3-e101-4e0c-a8c5-a6d653d3a392)
+
 
 ## highlight edges,nodes
 
 output-->graph4.m
 
-![5](https://github.com/user-attachments/assets/8d5a3256-d878-493d-b24e-a19c1041b86d)
+![10](https://github.com/user-attachments/assets/705797ad-d748-4721-9c2d-c633b2573368)
 
-## Get adjacency nodes of a node
 
-output-->adjNodes.m
-
-![6 adjnodes](https://github.com/user-attachments/assets/cd27092d-4585-4049-9f62-0c39739f85e0)
 
 ## Graph Image
 
 output-->graphImage.m
 
-<img width="721" alt="7 graphImage" src="https://github.com/user-attachments/assets/782557db-b663-4a0f-a93a-9f34760a1487" />
-
+<img width="721" alt="11" src="https://github.com/user-attachments/assets/8f45b45b-f102-4f5e-92a1-e5f9f8d3af4f" />
 
 
 
